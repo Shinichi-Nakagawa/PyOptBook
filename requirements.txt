@@ -11,3 +11,4 @@ numpy
 flask
 lxml
 requests
+streamlit
